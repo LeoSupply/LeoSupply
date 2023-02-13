@@ -2,7 +2,7 @@
 ###  ``` <Desenvolvedor Full Stack/> ``` 
 #### Atualmente sou estudante de desenvolvimento Full Stack, mas já atuei como designer dráfico em 2019. 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSupply&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSupply&langs_count=8&theme=tokyonight))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSupply&langs_count=8&theme=tokyonight)
 > ## _Skills:_
 <div style="display: inline_block">
   <ul>
