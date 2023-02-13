@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leo Freitas 😁
+## Olá! Eu sou o Leo Freitas 👋
 ###  ``` <Desenvolvedor Full Stack/> ``` 
 #### Atualmente sou estudante de desenvolvimento Full Stack, mas já atuei como designer dráfico em 2019.
 
