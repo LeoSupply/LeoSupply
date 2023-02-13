@@ -1,16 +1,199 @@
-### Hi there 👋
+## Olá! Eu sou o Leo Freitas 😁
+###  ``` <Desenvolvedor Full Stack/> ``` 
+#### Atualmente sou estudante de desenvolvimento Full Stack, mas já atuei como designer dráfico em 2019. 
 
-<!--
-**LeoSupply/LeoSupply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ## _Skills:_
+<div style="display: inline_block">
+  <ul>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="HTML"
+                height="30"
+                width="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+                />
+        </span>
+        <span>HTML5</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="Markdown"
+                height="30"
+                width="40"
+                       src="https://camo.githubusercontent.com/fba502c48e218dee0b938cd4a2ca88eb7b3518731af6fa8e2bbcce4bab2d6b4f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d61726b646f776e2f6d61726b646f776e2d6f726967696e616c2e737667"
+                />
+        </span>
+        <span>Markdown</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="CSS3"
+                height="30"
+                width="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+                />
+        </span>
+        <span>CSS3</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="JavaScript"
+                height="30"
+                width="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                />
+        </span>
+        <span>JavaScript</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="TypeScript"
+                height="30"
+                width="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                />
+        </span>
+        <span>TypeScript</span>
+    </li>
+     <li>
+        <span>
+            <img
+                align="center"
+                alt="Python"
+                height="30"
+                width="40"
+                src="https://www.svgrepo.com/show/354238/python.svg"
+                />
+        </span>
+        <span>Python</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="PHP"
+                height="30"
+                width="40"
+                src="https://camo.githubusercontent.com/17f9ca873217e5946dad04490329d9a7a0e3bc282b3f32849fb8b5f451689c1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d706c61696e2e737667"
+                />
+        </span>
+        <span>PHP</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="NodeJS"
+                height="30"
+                width="40"
+                src="https://camo.githubusercontent.com/ba2d3169d2186a32a473f51969808621fa9f5523963e4b6c70e99bdbcde97cf7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d706c61696e2e737667"
+                />
+        </span>
+        <span>NodeJS</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="Flutter"
+                height="30"
+                width="40"
+                src="https://www.svgrepo.com/show/373604/flutter.svg"
+                />
+        </span>
+        <span>Flutter</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="Photoshop"
+                height="30"
+                width="40"
+                src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg"
+                />
+        </span>
+        <span>Adobe Photoshop</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="Ilustrator"
+                height="30"
+                width="40"
+                src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg"
+                />
+        </span>
+        <span>Adobe Ilustrator</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="Figma"
+                height="30"
+                width="40"
+                src="https://www.svgrepo.com/show/354987/figma.svg"
+                />
+        </span>
+        <span>Figma</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="FileZilla"
+                height="30"
+                width="40"
+                src="https://camo.githubusercontent.com/c9ed84fb9911274d64afe679daa14b3d3995a235f6d4237c2d605df4476d2a72/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66696c657a696c6c612f66696c657a696c6c612d706c61696e2e737667"
+                />
+        </span>
+        <span>FileZilla</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="Windows"
+                height="30"
+                width="40"
+                src="https://www.svgrepo.com/show/382713/windows-applications.svg"
+                />
+        </span>
+        <span>Windows Server</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="Debian"
+                height="30"
+                width="40"
+                src="https://www.svgrepo.com/show/354912/debian.svg"
+                />
+        </span>
+        <span>Debian</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
+                alt="MySQL"
+                height="30"
+                width="40"
+                src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
+                />
+        </span>
+        <span>MySQL</span>
+    </li>
