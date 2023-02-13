@@ -1,9 +1,23 @@
 ## Olá! Eu sou o Leo Freitas 😁
 ###  ``` <Desenvolvedor Full Stack/> ``` 
-#### Atualmente sou estudante de desenvolvimento Full Stack, mas já atuei como designer dráfico em 2019. 
+#### Atualmente sou estudante de desenvolvimento Full Stack, mas já atuei como designer dráfico em 2019.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSupply&show_icons=true&theme=tokyonight)
-> ## _Skills:_
-<div style="display: inline_block">
+
+
+<div> 
+  <a href="https://www.linkedin.com/in/leo-freitas-28a190163/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:leosupply.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+##
+
+- <div style="display: inline_block">
+  <h1> Skills </h1>
   <ul>
     <li>
         <span>
