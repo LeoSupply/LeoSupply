@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Leo Freitas 👋
 ###  ``` <Desenvolvedor Full Stack/> ``` 
-#### Atualmente sou estudante de desenvolvimento Full Stack, mas já atuei como designer dráfico em 2019.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSupply&show_icons=true&theme=tokyonight)
 
