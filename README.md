@@ -22,6 +22,18 @@
         <span>
             <img
                 align="center"
+                alt="Python"
+                height="30"
+                width="40"
+                src="https://www.svgrepo.com/show/354238/python.svg"
+                />
+        </span>
+        <span>Python</span>
+    </li>
+    <li>
+        <span>
+            <img
+                align="center"
                 alt="HTML"
                 height="30"
                 width="40"
@@ -70,42 +82,6 @@
         <span>
             <img
                 align="center"
-                alt="TypeScript"
-                height="30"
-                width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                />
-        </span>
-        <span>TypeScript</span>
-    </li>
-     <li>
-        <span>
-            <img
-                align="center"
-                alt="Python"
-                height="30"
-                width="40"
-                src="https://www.svgrepo.com/show/354238/python.svg"
-                />
-        </span>
-        <span>Python</span>
-    </li>
-    <li>
-        <span>
-            <img
-                align="center"
-                alt="PHP"
-                height="30"
-                width="40"
-                src="https://camo.githubusercontent.com/17f9ca873217e5946dad04490329d9a7a0e3bc282b3f32849fb8b5f451689c1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d706c61696e2e737667"
-                />
-        </span>
-        <span>PHP</span>
-    </li>
-    <li>
-        <span>
-            <img
-                align="center"
                 alt="NodeJS"
                 height="30"
                 width="40"
@@ -113,18 +89,6 @@
                 />
         </span>
         <span>NodeJS</span>
-    </li>
-    <li>
-        <span>
-            <img
-                align="center"
-                alt="Flutter"
-                height="30"
-                width="40"
-                src="https://www.svgrepo.com/show/373604/flutter.svg"
-                />
-        </span>
-        <span>Flutter</span>
     </li>
     <li>
         <span>
