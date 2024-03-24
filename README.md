@@ -1,17 +1,12 @@
-## Olá! Eu sou o Leo Freitas 👋
-###  ``` </> ``` 
+<h1 style="text-align: center">Olá! Eu sou o Leo Freitas 👋</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSupply&show_icons=true&theme=github_dark)
 
 
-<div> 
-  <a href = "mailto:leosupply.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+![](https://dcbadge.vercel.app/api/shield/707711307742314567)
+
 
 ##
-
 - <div style="display: inline_block">
   <h1> Skills </h1>
   <ul>
@@ -43,18 +38,6 @@
         <span>
             <img
                 align="center"
-                alt="Markdown"
-                height="30"
-                width="40"
-                       src="https://camo.githubusercontent.com/fba502c48e218dee0b938cd4a2ca88eb7b3518731af6fa8e2bbcce4bab2d6b4f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d61726b646f776e2f6d61726b646f776e2d6f726967696e616c2e737667"
-                />
-        </span>
-        <span>Markdown</span>
-    </li>
-    <li>
-        <span>
-            <img
-                align="center"
                 alt="CSS3"
                 height="30"
                 width="40"
@@ -74,18 +57,6 @@
                 />
         </span>
         <span>JavaScript</span>
-    </li>
-    <li>
-        <span>
-            <img
-                align="center"
-                alt="NodeJS"
-                height="30"
-                width="40"
-                src="https://camo.githubusercontent.com/ba2d3169d2186a32a473f51969808621fa9f5523963e4b6c70e99bdbcde97cf7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d706c61696e2e737667"
-                />
-        </span>
-        <span>NodeJS</span>
     </li>
     <li>
         <span>
@@ -122,52 +93,4 @@
                 />
         </span>
         <span>Figma</span>
-    </li>
-    <li>
-        <span>
-            <img
-                align="center"
-                alt="FileZilla"
-                height="30"
-                width="40"
-                src="https://camo.githubusercontent.com/c9ed84fb9911274d64afe679daa14b3d3995a235f6d4237c2d605df4476d2a72/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66696c657a696c6c612f66696c657a696c6c612d706c61696e2e737667"
-                />
-        </span>
-        <span>FileZilla</span>
-    </li>
-    <li>
-        <span>
-            <img
-                align="center"
-                alt="Windows"
-                height="30"
-                width="40"
-                src="https://www.svgrepo.com/show/382713/windows-applications.svg"
-                />
-        </span>
-        <span>Windows Server</span>
-    </li>
-    <li>
-        <span>
-            <img
-                align="center"
-                alt="Debian"
-                height="30"
-                width="40"
-                src="https://www.svgrepo.com/show/354912/debian.svg"
-                />
-        </span>
-        <span>Debian</span>
-    </li>
-    <li>
-        <span>
-            <img
-                align="center"
-                alt="MySQL"
-                height="30"
-                width="40"
-                src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
-                />
-        </span>
-        <span>MySQL</span>
     </li>
