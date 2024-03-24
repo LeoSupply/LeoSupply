@@ -1,8 +1,4 @@
 ## Olá! Eu sou o Leo Freitas 👋
-###  ``` Estudante de Engenharia de Software no IFSP ``` 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSupply&show_icons=true&theme=tokyonight)
-
 
 <div> 
   <a href="https://www.linkedin.com/in/leo-freitas-28a190163/" target="_blank">
