@@ -1,15 +1,17 @@
-<h1 style="text-align: center">Olá! Eu sou o Leo Freitas 👋</h1>
+### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSupply&show_icons=true&theme=github_dark)
+Hello! My name is **Leo Freitas**. Currently, I am pursuing a bachelor's degree in Software Engineering at the Federal Institute of São Paulo - IFSP. 
+
+Previously, I worked as a graphic designer, which significantly contributed to the development of my critical view regarding interface and user experience with GUI. 
+
+I have a greater affinity and dedication to Back-End development, an area in which I constantly seek to improve my knowledge and develop experiences that contribute to superior performance.
 
 
 ![](https://dcbadge.vercel.app/api/shield/707711307742314567)
-
-
 ##
-- <div style="display: inline_block">
-  <h1> Skills </h1>
-  <ul>
+### Skills:
+
+<div style="display: inline_block">
     <li>
         <span>
             <img
@@ -94,3 +96,5 @@
         </span>
         <span>Figma</span>
     </li>
+<div/>
+
