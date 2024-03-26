@@ -34,7 +34,7 @@ I have a greater affinity and dedication to Back-End development, an area in whi
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
                 />
         </span>
-        <span>HTML5</span>
+        <span>HTML</span>
     </li>
     <li>
         <span>
